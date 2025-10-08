@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Welcome to your Lovable project
 
 ## Project info
@@ -71,3 +72,7 @@ Yes, you can!
 To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
 
 Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+=======
+# EmployeeManagement-system
+A simple Employee Management System frontend for adding, updating, and viewing employee details.
+>>>>>>> f3549751e37027daff028a99f77401570260fbfa
